@@ -8,7 +8,7 @@
     <img alt="Kittyheim Portfolios" src="./assets/[ Readme img ].png" width="100%">
 </p>
 
-## Tecnologias
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias: 
 
@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## Projeto
+## :computer: Projeto
 
 O Kittyheim Portoflios é um projeto experimental desenvolvido com base no projeto "Devlinks" do curso gratuito da Rocketseat para iniciantes, o Discover. 
 
