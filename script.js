@@ -3,3 +3,7 @@ function toggleMode() {
 
     html.classList.toggle('light')
 }
+
+function alert(){
+    alert ('meow!')
+}
