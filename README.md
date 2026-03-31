@@ -1,6 +1,6 @@
 <h1 align="center">Kittyheim Portfolios</h1>
 
-<p align="center">Projeto desenvolvido com base no projeto DevLinks, parte do curso gratuito da RocketSeat para iniciantes em programação</p>
+<p align="center">Project developed based on the DevLinks project, part of RocketSeat’s free course for beginners in web development.</p>
 
 <br>
 
@@ -8,24 +8,24 @@
     <img alt="Kittyheim Portfolios" src="./assets/[ Readme img ].png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias: 
+This project was developed with:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 
-## :computer: Projeto
+## :computer: Project
 
-O Kittyheim Portoflios é um projeto experimental desenvolvido com base no projeto "Devlinks" do curso gratuito da Rocketseat para iniciantes, o Discover. 
+Kittyheim Portoflios is an experimental project based on the “Devlinks” project from Rocketseat’s free course for beginners, Discover.
 
-Aqui, adquiro novos conhecimentos sobre desenvolvimento WEB e pratico o que já conheço. Conforme adquiro experiência, estarei voltando nesse projeto para aprimorá-lo. 
+Here, I've learned new skills in web development and put what I already know into practice. As I gain more experience, I’ll be revisiting this project to improve it. 
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under MIT License.
 
 ---
 
-Feito com ❤️ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Made with ❤️ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
